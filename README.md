@@ -35,26 +35,28 @@ The system demonstrates how real-world payment platforms handle financial transa
 </p>
 
 
-## Technology Stack
+# 🧰 Technology Stack
 
-  ### Backend
-  - Java
-  - Spring Boot
-  - Spring Security
-  
-  ### Database
-  - PostgreSQL
-  
-  ### Caching
-  - Redis
-  
-  ### Infrastructure
-  - Docker
-  - Nginx
-  - AWS
-  
-  ### Messaging (Optional)
-  - Kafka / RabbitMQ
+### ⚙ Backend
+- Spring Boot
+- REST APIs
+- JWT Authentication
+
+### 🗄 Database
+- PostgreSQL
+
+### ⚡ Caching
+- Redis
+
+### 🧱 Infrastructure
+- Docker
+- Nginx
+- CI/CD Pipeline
+- AWS Cloud
+
+### 📡 Messaging (Optional)
+- Message Queue for asynchronous processing
+---
 
 
 
