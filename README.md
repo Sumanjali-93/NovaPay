@@ -33,7 +33,7 @@ The system demonstrates how real-world payment platforms handle financial transa
 - 🔔 Deliver **real-time transaction notifications**
 - 📈 Provide **administrative analytics and reporting**
 
-## System Architecture
+## 🏗️ System Architecture
 
   The digital payment platform follows a monolithic backend architecture where all core modules operate within a single deployable service. This design simplifies           development and ensures strong transactional consistency for financial operations.
 
