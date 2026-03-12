@@ -1,4 +1,14 @@
 # 🌐 Instant Payment System
+Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on NovaPay
+
+![Fintech](https://img.shields.io/badge/Fintech-Instant_Payments-blue)
+![Backend](https://img.shields.io/badge/Backend-Spring_Boot-green)
+![Language](https://img.shields.io/badge/Language-Java-orange)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Cache](https://img.shields.io/badge/Cache-Redis-red)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Docker-lightblue)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
   Instant Payment System — A monolithic fintech application designed to handle wallet services, payment processing, and transaction ledger management within a       single scalable backend system.
 
