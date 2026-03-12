@@ -8,7 +8,11 @@
 
   The backend handles authentication, wallet management, payment processing, ledger recording, and notification services while maintaining data integrity and        security.
 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 5, 2026, 12_24_04 PM" src="https://github.com/user-attachments/assets/ac623473-cd59-4c83-911b-dcd3a954a86f" />
+<h2 align="center">Instant Payment System Architecture</h2>
+
+<p align="center">
+  <img src="docs/images/architecture.png" width="1000">
+</p>
 
 
 
