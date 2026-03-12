@@ -67,7 +67,6 @@ The system demonstrates how real-world payment platforms handle financial transa
 
 ### 📡 Messaging (Optional)
 - Message Queue for asynchronous processing
----
 
 # 🚀 Project Goals
 
@@ -114,7 +113,6 @@ The architecture reflects patterns used in **modern payment platforms like Strip
 - User monitoring
 - Financial reporting
 
----
 
 ## 📁 Project Structure
     Instant-Payment-System
