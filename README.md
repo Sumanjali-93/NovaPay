@@ -107,7 +107,7 @@ Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paym
 - Admin reporting and analytics
 - Scalable monolithic backend architecture
 
-## 🚀Future Improvements
+## 🚀 Future Improvements
 - Migration to microservices architecture
 - Event-driven transaction processing
 - Advanced fraud detection
