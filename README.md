@@ -104,6 +104,9 @@
 - Distributed transaction management
 - Observability using Prometheus and Grafana
 
-## Developed By
-Sumanjali Nuthanakanti
-Full Stack & Systems Developer
+## 👩‍💻 Project Maintainer
+
+**Sumanjali Nuthanakanti**  
+Full Stack & Systems Developer  
+
+Architecting scalable systems and building production-grade applications.
