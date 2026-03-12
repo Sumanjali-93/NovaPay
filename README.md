@@ -103,3 +103,7 @@
 - Advanced fraud detection
 - Distributed transaction management
 - Observability using Prometheus and Grafana
+
+## Developed By
+Sumanjali Nuthanakanti
+Full Stack & Systems Developer
