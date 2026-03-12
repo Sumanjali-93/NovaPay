@@ -39,8 +39,6 @@ The system demonstrates how real-world payment platforms handle financial transa
 
   The backend handles authentication, wallet management, payment processing, ledger recording, and notification services while maintaining data integrity and        security.
 
-
-## Architecture
 <h2 align="center">Instant Payment System Architecture</h2>
 
 <p align="center">
