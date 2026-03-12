@@ -58,6 +58,17 @@ The system demonstrates how real-world payment platforms handle financial transa
 - Message Queue for asynchronous processing
 ---
 
+# 🚀 Project Goals
+
+This project demonstrates how modern fintech systems are built with focus on:
+
+- 🔐 Secure financial transactions  
+- 📈 Scalable backend architecture  
+- 🧩 Modular service design  
+- 📊 Monitoring and observability  
+- ☁ Cloud-ready infrastructure  
+
+The architecture reflects patterns used in **modern payment platforms like Stripe, PayPal, and digital banking systems**.
 
 
 # ✨ Core Features
