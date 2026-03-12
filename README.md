@@ -20,6 +20,15 @@ To ensure performance and reliability, the system integrates database persistenc
 
 The system demonstrates how real-world payment platforms handle financial transactions, data consistency, security, and operational monitoring.
 
+# 🎯 Key Objectives
+
+- ⚡ Enable **real-time digital money transfers**
+- 🔐 Maintain **secure financial transactions**
+- 📊 Track **complete transaction history**
+- 💰 Support **wallet balance management**
+- 🔔 Deliver **real-time transaction notifications**
+- 📈 Provide **administrative analytics and reporting**
+
 ## System Architecture
 
   The digital payment platform follows a monolithic backend architecture where all core modules operate within a single deployable service. This design simplifies           development and ensures strong transactional consistency for financial operations.
