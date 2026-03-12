@@ -120,3 +120,7 @@ Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paym
      Full Stack & Systems Developer  
   
   **Architecting scalable systems and building production-grade applications.**
+
+## 📄 License
+
+This project is licensed under the MIT License - 2026 Instant Payment System
