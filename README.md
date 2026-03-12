@@ -14,7 +14,7 @@ Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paym
 
 ## System Architecture
 
-  The NovaPay platform follows a monolithic backend architecture where all core modules operate within a single deployable service. This design simplifies           development and ensures strong transactional consistency for financial operations.
+  The digital payment platform follows a monolithic backend architecture where all core modules operate within a single deployable service. This design simplifies           development and ensures strong transactional consistency for financial operations.
 
   The backend handles authentication, wallet management, payment processing, ledger recording, and notification services while maintaining data integrity and        security.
 
