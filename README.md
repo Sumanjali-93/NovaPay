@@ -118,7 +118,7 @@ The architecture reflects patterns used in **modern payment platforms like Strip
 
 ---
 
-## Project Structure
+## 📁 Project Structure
     Instant-Payment-System
     │
     ├── docs
