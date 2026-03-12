@@ -10,6 +10,10 @@ Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paym
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
+A **high-performance fintech payment infrastructure** designed to enable **secure, real-time money transfers** between users.  
+The system focuses on **scalability, reliability, and financial data integrity**, following modern backend engineering and distributed system design practices.
+
+
 ## Overview
 
 The Instant Payment System is a backend-focused financial platform that simulates the architecture of modern digital payment systems used by fintech companies. It allows users to securely transfer funds, manage digital wallets, track transaction history, and receive real-time notifications.
@@ -150,10 +154,10 @@ The architecture reflects patterns used in **modern payment platforms like Strip
 
 ## 👩‍💻 Project Maintainer
 
-  **Sumanjali Nuthanakanti**  
-     Full Stack & Systems Developer  
+**Sumanjali Nuthanakanti**  
+ Full Stack & Systems Developer  
   
-  **Architecting scalable systems and building production-grade applications.**
+**Architecting scalable systems and building production-grade applications.**
 
 ## 📄 License
 
